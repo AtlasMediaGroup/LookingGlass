@@ -64,7 +64,7 @@ if (file_exists('LookingGlass/Config.php')) {
       <header class="header nohighlight" id="overview">
         <div class="row">
           <div class="span12">
-            <h1><a id="title" href="<?php echo $siteUrl; ?>"><?php echo $siteName; ?></a></h1>
+            <center><img src="assets/img/logo.png" alt="logo" width="120" height="68" /></center>
           </div>
         </div>
       </header>
